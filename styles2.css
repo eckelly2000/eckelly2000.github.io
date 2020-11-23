@@ -1,0 +1,120 @@
+
+ 
+.site-header {
+    background-color: white;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color: #EAEA76;
+}
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #F16175;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+      color: #5366AF;
+      font-size: x-large;
+      font-family: 'Raleway', sans-serif;
+  }
+
+  .card {
+      margin-top: 10px;
+      font-family: 'Raleway', sans-serif;
+      color: #5366AF;
+  }
+
+
+  h1 {
+      font-size: 6em;
+      padding-left: 20px;
+      padding-top: 30px;
+      font-family: 'Sigmar One', cursive;
+      color: #F16175;
+  }
+
+  .btn-primary {
+      background-color: transparent;
+      border-color: #5366AF;
+      font-family: 'Raleway', sans-serif;
+      color: #5366AF;
+  }
+
+  .btn-primary:hover {
+      background-color: #5366AF;
+  }
+
+  .page-footer {
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  
+h6 {
+    background: white;
+    padding: 10px;
+}
+
+    .fa-heart:hover {
+        color: #F16175;
+    }
+
+    .fa-heart {
+        font-size: 2em;
+    }
+
+    .fa-shopping-cart {
+        font-size: 2em;
+    }
+
+    .fa-angle-down {
+        font-size: 3em;
+        color: #F16175;
+    }
+
+    .fa-angle-down:hover {
+        color: #5366AF;
+    }
+
+    .fa-instagram {
+        color: #F16175;
+        font-size: 3em;
+        padding: 10px;
+    }
+  
+    .fa-facebook-f {
+        color: #F16175;
+        font-size: 3em;
+        padding: 10px;
+    }
+  
+    .fa-twitter {
+        color: #F16175;
+        font-size: 3em;
+        padding: 10px;
+    }
+  
+    .fa-instagram:hover {
+        color: #5366AF;
+    }
+  
+    .fa-facebook-f:hover {
+        color: #5366AF;
+    }
+  
+    .fa-twitter:hover {
+        color: #5366AF;
+    }
+
+
+    

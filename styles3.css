@@ -1,0 +1,84 @@
+.site-header {
+    background-color: #5366AF;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+h1 {
+    padding-left: 20px;
+    font-family: 'Sigmar One', cursive;
+    font-size: 6em;
+    color: white;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #F16175;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: 3em;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #F16175;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+      color: white;
+      font-size: x-large;
+      font-family: 'Raleway', sans-serif;
+  }
+
+  p {
+      width: 100%;
+      margin: 0 auto;
+      padding-bottom: 30px;
+  }
+
+  img {
+      float: right;
+  }
+
+  .page-footer {
+    background-color: #5366AF;
+    padding: 25px;
+  }
+
+  .fa-instagram {
+      color: white;
+      font-size: 3em;
+      padding: 10px;
+
+  }
+
+  .fa-facebook-f {
+      color: white;
+      font-size: 3em;
+      padding: 10px;
+  }
+
+  .fa-twitter {
+      color: white;
+      font-size: 3em;
+      padding: 10px;
+  }
+
+  .fa-instagram:hover {
+      color: #F16175;
+  }
+
+  .fa-facebook-f:hover {
+      color: #F16175;
+  }
+
+  .fa-twitter:hover {
+      color: #F16175;
+  }
+
